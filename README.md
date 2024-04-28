@@ -21,6 +21,7 @@ async function checkPortAvaiable(port: number) {
         console.error(e)
     }
 }
+const PORT = 9527
 createServer(PORT);
 checkPortAvaiable(PORT);
 ```
