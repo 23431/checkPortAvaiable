@@ -1,7 +1,7 @@
 {
   "name": "check-avaiable-port",
-  "version": "1.0.0",
-  "description": "check port useabled",
+  "version": "1.0.1",
+  "description": "check port avaiable",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/types/index.d.ts",
