@@ -1,4 +1,5 @@
-import { getAvailablePort,checkPort } from './checkPortAvailable'
-import { IResult } from './type'
+import {getAvailablePort, checkPort} from './checkPortAvailable'
+import {IResult} from './type'
 
-export { getAvailablePort,checkPort, IResult }
+export {getAvailablePort, checkPort}
+export type {IResult}
